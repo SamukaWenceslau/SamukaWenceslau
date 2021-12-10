@@ -1,8 +1,8 @@
-### Hello World 👋
+<h1 align="center"> Hello World 👋 </h1>
 
-- Meu nome é Samuel, tenho 21 anos. Sou desenvolvedor Full-Stack e atualmente estou como trainee no Grupo FCamara, atuando na OmniK. Curto bastante aprender e aplicar meu conhecimento através da resolução de problemas, acho fantástico o Javascript e sua stack, mas não fico preso a uma linguagem; amo descobrir outras formas e ferramentas que auxiliam na construção de uma solução. 
-
-- 📍 Santos - São Paulo (Brazil). 
+<p align="center">
+  Meu nome é Samuel, tenho 21 anos. Sou desenvolvedor Full-Stack e atualmente sou trainee no Grupo FCamara, atuando na OmniK. Curto bastante aprender e aplicar meu conhecimento através da resolução de problemas, acho fantástico o Javascript e sua stack, mas não fico preso a uma linguagem. Amo me aventurar e descobrir outras formas e ferramentas que auxiliam na construção de uma solução, principalmente quando "explodem minha mente", como: "🤯 Wow que insano, como não conhecia isso..."
+</p>
 
 ---
 
