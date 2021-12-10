@@ -1,12 +1,8 @@
-### Hello World, I'm Samuel 👋
+### Hello World 👋
 
-- 📚 I'm a Computer Science undergrad student and my goal is to become a full-stack developer; 
+- Meu nome é Samuel, tenho 21 anos. Sou desenvolvedor Full-Stack e atualmente estou como trainee no Grupo FCamara, atuando na OmniK. Curto bastante aprender e aplicar meu conhecimento através da resolução de problemas, acho fantástico o Javascript e sua stack, mas não fico preso a uma linguagem; amo descobrir outras formas e ferramentas que auxiliam na construção de uma solução. 
 
 - 📍 Santos - São Paulo (Brazil). 
-
-#### What I'm focusing on 🎯
-
-- 🌱 I am currently focused on learning about back-end development with Node.js. However I really enjoyed the fullstack package with Javascript/TypeScript, and as soon as possible I intend to study some frontend framework like React.js, Vue.js, Angular.js...  
 
 ---
 
